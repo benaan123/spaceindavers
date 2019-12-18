@@ -5,6 +5,8 @@ import os
 import math
 import random
 
+# hey
+
 # Set up screen
 wn = turtle.Screen()
 wn.bgcolor("black")
